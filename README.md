@@ -2,7 +2,7 @@
 **dlt** stands for `data load tool ` and it is a library for `data ingestion`. /
 Note: DBT is instead is a `transformation tool` within an ETL process. /
 
-The workshoop in this repo covers the following points:
+The workshoop in this repo covers the following points:\
     ✅ **Data ingestion with dlt**
     ✅ **Data normalization with dlt**
     ✅ **Data loading with dlt** 
