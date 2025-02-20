@@ -2,9 +2,9 @@
 **dlt** stands for `data load tool ` and it is a library for `data ingestion`
 
 The workshoop in this repo covers the following points:
-- **Data ingestion with dlt**
-- **Data normalization with dlt**
-- **Data loading with dlt** 
+- ✅ **Data ingestion with dlt**
+- ✅ **Data normalization with dlt**
+- ✅ **Data loading with dlt** 
 
 ---
 
