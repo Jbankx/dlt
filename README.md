@@ -23,6 +23,7 @@ For more information check the full video by `Violetta Mishechkina` on `DataTalk
 
 ---
 
-`Note`: Install `Python 3.12.0` in a newly created virtual environment to avoid dlt installation errors (i.e. with Python 3.13.0). As on 18.02.2024
+## Requirements: 
+Install `Python 3.12.0` in a newly created virtual environment to avoid dlt installation errors (i.e. with Python 3.13.0). As on 18.02.2024
 
 ---
