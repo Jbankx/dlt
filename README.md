@@ -15,7 +15,6 @@ Data ingestion is the process of **extracting** data from a source, transporting
 
 ## **Data pipelines**  
 They ensure data flows seamlessly from its source to its final destination
-<img src="img/pipes.jpg" />
 
 ---
 ## References: 
