@@ -1,11 +1,10 @@
 ## What is dlt
-**dlt** stands for `data load tool ` and it is a library for `data ingestion`. /
-Note: DBT is instead is a `transformation tool` within an ETL process. /
+**dlt** stands for `data load tool ` and it is a library for `data ingestion`
 
-The workshoop in this repo covers the following points:\
-    ✅ **Data ingestion with dlt**
-    ✅ **Data normalization with dlt**
-    ✅ **Data loading with dlt** 
+The workshoop in this repo covers the following points:
+- **Data ingestion with dlt**
+- **Data normalization with dlt**
+- **Data loading with dlt** 
 
 ---
 
@@ -14,14 +13,12 @@ Data ingestion is the process of **extracting** data from a source, transporting
 
 ---
 
-## **Data pipelines **  
+## **Data pipelines**  
 They ensure data flows seamlessly from its source to its final destination
-![pipes](img/pipes.jpg)
 
 ---
-
-## References: /
-For more information check the full video by `Violetta Mishechkina` (https://www.youtube.com/watch?v=pgJWP_xqO1g&t=512s)
+## References: 
+For more information check the full video by `Violetta Mishechkina` on `DataTalksClub`
 
 
 ---
